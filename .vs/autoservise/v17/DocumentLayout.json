@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|c:\\users\\\u044F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\addclientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|solutionrelative:autoservise\\pages\\addclientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\addclientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|solutionrelative:autoservise\\pages\\addclientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|solutionrelative:autoservise\\pages\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|solutionrelative:autoservise\\pages\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|solutionrelative:autoservise\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3188C9A7-9239-4D12-BB38-20B077D00B5D}|autoservise\\autoservise.csproj|solutionrelative:autoservise\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddClientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\AddClientPage.xaml",
+              "RelativeDocumentMoniker": "autoservise\\pages\\AddClientPage.xaml",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\AddClientPage.xaml*",
+              "RelativeToolTip": "autoservise\\pages\\AddClientPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:53:24.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\ClientPage.xaml",
+              "RelativeDocumentMoniker": "autoservise\\pages\\ClientPage.xaml",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\ClientPage.xaml",
+              "RelativeToolTip": "autoservise\\pages\\ClientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:22:54.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\ClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "autoservise\\pages\\ClientPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\ClientPage.xaml.cs",
+              "RelativeToolTip": "autoservise\\pages\\ClientPage.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:17:04.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddClientPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\AddClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "autoservise\\pages\\AddClientPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\pages\\AddClientPage.xaml.cs",
+              "RelativeToolTip": "autoservise\\pages\\AddClientPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwFgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:16:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "autoservise\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\MainWindow.xaml",
+              "RelativeToolTip": "autoservise\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T07:52:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "autoservise\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u0438\u043A\\source\\repos\\autoservise\\autoservise\\MainWindow.xaml.cs",
+              "RelativeToolTip": "autoservise\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:32:28.717Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
